@@ -47,5 +47,5 @@
 
 ---
 
-<p align="center">✨ Code • Create • Repeat ✨</p>
+<p align="center"></p>
 <p align="center">© 2025 Nishant Gupta •
