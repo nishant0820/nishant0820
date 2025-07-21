@@ -36,14 +36,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0820&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
 
 ### 📫 Let's Connect
 
-- 📧 Gmail: **ayushkr1974@gmail.com**
-- 🌍 Portfolio: [https://ayushkr-profile.netlify.app/)
+- 📧 Gmail: **gupta.nishant08042004@gmail.com@gmail.com**
+- 🌍 Portfolio: [)
 
 ---
 
