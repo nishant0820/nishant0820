@@ -43,7 +43,7 @@
 ### 📫 Let's Connect
 
 - 📧 Gmail: **gupta.nishant08042004@gmail.com**
-- 🌍 Portfolio: (https://portfolio-two-amber-90.vercel.app/)
+- 🌍 Portfolio: https://portfolio-two-amber-90.vercel.app/
 
 ---
 
