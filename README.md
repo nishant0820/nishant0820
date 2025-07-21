@@ -48,4 +48,4 @@
 ---
 
 <p align="center"></p>
-<p align="center">© 2025 Nishant Gupta •
+<p align="center">© 2025 Nishant Gupta
