@@ -42,10 +42,10 @@
 
 ### 📫 Let's Connect
 
-- 📧 Gmail: **gupta.nishant08042004@gmail.com@gmail.com**
-- 🌍 Portfolio: [)
+- 📧 Gmail: **gupta.nishant08042004@gmail.com**
+- 🌍 Portfolio: ()
 
 ---
 
 <p align="center">✨ Code • Create • Repeat ✨</p>
-<p align="center">© 2025 Ayush • Built with 💻 and ☕</p>
+<p align="center">© 2025 Nishant Gupta •
