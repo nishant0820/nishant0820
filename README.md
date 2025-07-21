@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Nishant Gupta</span></h1>
 <p align="center"><em>Code. Commit. Conquer.</em></p>
-<h3 align="center">🚀 Full Stack Web Developer | Database Engineer | AI Learner | B.Tech Student</h3>
+<h3 align="center">🚀 Fullstack Web Developer | Database Engineer | B.Tech Student</h3>
 
 <p align="center">
   🌐 Currently pursuing my B.Tech with a passion for building responsive and interactive web apps. <br>
@@ -36,8 +36,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0820&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr018&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
 
+### 📫 Let's Connect
 
+- 📧 Gmail: **ayushkr1974@gmail.com**
+- 🌍 Portfolio: [https://ayushkr-profile.netlify.app/)
+
+---
+
+<p align="center">✨ Code • Create • Repeat ✨</p>
+<p align="center">© 2025 Ayush • Built with 💻 and ☕</p>
