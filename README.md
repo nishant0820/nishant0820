@@ -18,7 +18,6 @@
 
 ### ⚒ Tech Stack
 
-Hvr:
 <div align="center">
 🌈 Frontend Development
 </div>
