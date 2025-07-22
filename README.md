@@ -18,20 +18,63 @@
 
 ### ⚒ Tech Stack
 
+<div align="center">ðŸ—ƒï¸ Databases</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAAS-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <table align="center" style="border:none;border-collapse:collapse">
+    <tr style="border:none">
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/><br>
+        <sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/><br>
+        <sub><b>MySQL</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
+<div align="center"> âš™ï¸ Tools & Platforms</div>
+<p align="center">
+  <table align="center" style="border:none;border-collapse:collapse">
+    <tr style="border:none">
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/><br>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/><br>
+        <sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/><br>
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase"/><br>
+        <sub><b>Supabase</b></sub>
+      </td>
+    </tr>
+    <tr style="border:none">
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" title="Vercel"/><br>
+        <sub><b>Vercel</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" title="Netlify"/><br>
+        <sub><b>Netlify</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/><br>
+        <sub><b>Postman</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.simpleicons.org/render/46e3b7" width="50" title="Render"/><br>
+        <sub><b>Render</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
 ### 📈 GitHub Stats
