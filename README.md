@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://imgur.com/79lMdWX.gif"> Hey there, I'm <span style="color:#3b82f6;">Nishant Gupta</span></h1>
+<h1 align="center"><img src="https://imgur.com/79lMdWX.gif" width="30px"> Hey there, I'm <span style="color:#3b82f6;">Nishant Gupta</span></h1>
 <p align="center"><em>Code. Generate. Repeat.</em></p>
 <h3 align="center">🚀 Fullstack Web Developer | Database Engineer | B.Tech Student</h3>
 
