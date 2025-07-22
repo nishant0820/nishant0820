@@ -18,7 +18,7 @@
 
 ### ⚒ Tech Stack
 
-<div align="center">ðŸ—ƒï¸ Databases</div>
+<div align="center">Databases</div>
 <p align="center">
   <table align="center" style="border:none;border-collapse:collapse">
     <tr style="border:none">
@@ -34,7 +34,7 @@
   </table>
 </p>
 
-<div align="center"> âš™ï¸ Tools & Platforms</div>
+<div align="center">Tools & Platforms</div>
 <p align="center">
   <table align="center" style="border:none;border-collapse:collapse">
     <tr style="border:none">
