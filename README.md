@@ -74,10 +74,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/><br>
         <sub><b>Node.js</b></sub>
       </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" width="50" title="Express.js"/><br>
-        <sub><b>Express.js</b></sub>
-      </td>
 
 <td align="center" style="border:none;padding:8px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/><br>
