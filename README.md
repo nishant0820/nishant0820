@@ -75,8 +75,8 @@
         <sub><b>Node.js</b></sub>
       </td>
       <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/><br>
-        <sub><b>Express</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" width="50" title="Express.js"/><br>
+        <sub><b>Express.js</b></sub>
       </td>
 
 <td align="center" style="border:none;padding:8px">
