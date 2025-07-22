@@ -1,57 +1,79 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Nishant Gupta</span></h1>
-<p align="center"><em>Code. Generate. Repeat.</em></p>
-<h3 align="center">🚀 Fullstack Web Developer | Database Engineer | B.Tech Student</h3>
-
-<p align="center">
-  🌐 Currently pursuing my B.Tech with a passion for building responsive and interactive web apps. <br>
-  🔭 Learning AI, ML and constantly experimenting with new technologies.
+src="https://cdn.simpleicons.org/gmail/EA4335" width="22" title="Email"/>
+      </td>
+      <td align="left">
+        <b style="color: #444">Email:</b>
+      </td>
+      <td align="left">
+        <a href="mailto:gupta.nishant08042004@gmail.com" style="color: #1a73e8; text-decoration: none">gupta.nishant08042004@gmail.com</a>
+      </td>
+    </tr>
+    <tr height="12"></tr>
+    <tr>
+      <td align="right">
+        <img src="https://cdn.simpleicons.org/vercel/000000" width="22" title="Portfolio"/>
+      </td>
+      <td align="left">
+        <b style="color: #444">Portfolio:</b>
+      </td>
+      <td align="left">
+        <a href="https://portfolio-two-amber-90.vercel.app/" target="_blank" style="color: #1a73e8; text-decoration: none">portfolio-two-amber-90.vercel.app</a>
+      </td>
+    </tr>
+  </table>
+  <table align="center" style="margin-top: 20px">
+    <tr>
+      <td align="right">
+        <img src="https://cdn.simpleicons.org/github/181717" width="22" title="GitHub"/>
+      </td>
+      <td align="left">
+        <b style="color: #444">GitHub:</b>
+      </td>
+      <td align="left">
+        <a href="https://github.com/nishant0820" target="_blank" style="color: #1a73e8; text-decoration: none">github.com/nishant0820</a>
+      </td>
+    </tr>
+    <tr height="12"></tr> 
+    <tr>
+      <td align="right">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="22" />
+      </td>
+      <td align="left">
+        <b style="color: #444">LinkedIn:</b>
+      </td>
+      <td align="left">
+        <a href="https://www.linkedin.com/in/nishant-gupta-74b5a7219" target="_blank" style="color: #1a73e8; text-decoration: none">www.linkedin.com/in/nishant-gupta-74b5a7219</a>
+      </td>
+    </tr>
+    <tr height="12"></tr> 
+    <tr>
+      <td align="right">
+        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" title="Instagram"/>
+      </td>
+      <td align="left">
+        <b style="color: #444">Instagram:</b>
+      </td>
+      <td align="left">
+        <a href="https://instagram.com/nishantstudy" target="_blank" style="color: #1a73e8; text-decoration: none">instagram.com/nishantstudy</a>
+      </td>
+    </tr>
+  </table>
 </p>
+  
+
+  
+
 
 ---
 
-### 🔗 Portfolio
 
-> 🎯 Explore my work and projects at 👉 [Portfolio Website](https://portfolio-two-amber-90.vercel.app/)  
-> 📌 Don't forget to check out my GitHub activity below 👇
-
----
-
-### ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAAS-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Connect GIF">
+  <p>Let's build something amazing together!</p>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Stars GIF">
+</div>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant0820&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0820&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0820&layout=compact&theme=radical&hide_border=true" width="60%" />
-</p>
-
-
-### 📫 Let's Connect
-
-- 📧 Gmail: **gupta.nishant08042004@gmail.com**
-- 🌍 Portfolio: https://portfolio-two-amber-90.vercel.app/
-
----
-
-<p align="center">✨ Code • Generate • Repeat ✨</p>
-<p align="center">© 2025 Nishant Gupta
+<p align="center"></p>
+<p align="center">Â© 2025 Nishant Gupta
