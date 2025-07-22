@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Nishant Gupta</span></h1>
-<p align="center"><em></em></p>
+<p align="center"><em>Code. Generate. Repeat.</em></p>
 <h3 align="center">🚀 Fullstack Web Developer | Database Engineer | B.Tech Student</h3>
 
 <p align="center">
@@ -53,5 +53,5 @@
 
 ---
 
-<p align="center"></p>
+<p align="center">✨ Code • Generate • Repeat ✨</p>
 <p align="center">© 2025 Nishant Gupta
