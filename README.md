@@ -18,7 +18,85 @@
 
 ### ⚒ Tech Stack
 
-<div align="center">Databases</div>
+Hvr:
+<div align="center">
+🌈 Frontend Development
+</div>
+<p align="center">
+  <table align="center" style="border:none;border-collapse:collapse">
+    <tr style="border:none">
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/><br>
+        <sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/><br>
+        <sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/><br>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/><br>
+        <sub><b>React</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/><br>
+        <sub><b>Next.js</b></sub>
+      </td>
+    </tr>
+    <tr style="border:none">
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/><br>
+        <sub><b>Flutter</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS"/><br>
+        <sub><b>Tailwind</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" title="Vite"/><br>
+        <sub><b>Vite</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="Sass"/><br>
+        <sub><b>Sass</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<div align="center"> 🏗 Backend Development</div>
+<p align="center">
+  <table align="center" style="border:none;border-collapse:collapse">
+    <tr style="border:none">
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/><br>
+        <sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express"/><br>
+        <sub><b>Express</b></sub>
+      </td>
+
+<td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/><br>
+        <sub><b>Django</b></sub>
+      </td>
+      <td align="center" style="border:none;padding:8px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/><br>
+        <sub><b>Java</b></sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<div align="center">🗃 Databases</div>
 <p align="center">
   <table align="center" style="border:none;border-collapse:collapse">
     <tr style="border:none">
@@ -34,7 +112,7 @@
   </table>
 </p>
 
-<div align="center">Tools & Platforms</div>
+<div align="center"> ⚙ Tools & Platforms</div>
 <p align="center">
   <table align="center" style="border:none;border-collapse:collapse">
     <tr style="border:none">
@@ -75,6 +153,7 @@
     </tr>
   </table>
 </p>
+
 ---
 
 ### 📈 GitHub Stats
