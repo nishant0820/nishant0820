@@ -20,7 +20,7 @@
 
 <div align="center"> 🌈 Frontend Development</div>
 <p align="center">
-<img src=frontend.mp4 height="100" title="frontend"/>
+<img src="frontend.gif" height="100" title="frontend"/>
      
 </p>
 
