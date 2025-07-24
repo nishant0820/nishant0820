@@ -18,52 +18,10 @@
 
 ### 🛠 Tech Stack
 
-<div align="center">
-🌈 Frontend Development
-</div>
+<div align="center"> 🌈 Frontend Development</div>
 <p align="center">
-  <table align="center" style="border:none;border-collapse:collapse">
-    <tr style="border:none">
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/><br>
-        <sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/><br>
-        <sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/><br>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/><br>
-        <sub><b>React</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/><br>
-        <sub><b>Next.js</b></sub>
-      </td>
-    </tr>
-    <tr style="border:none">
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/><br>
-        <sub><b>Flutter</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS"/><br>
-        <sub><b>Tailwind</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" title="Vite"/><br>
-        <sub><b>Vite</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" title="Sass"/><br>
-        <sub><b>Sass</b></sub>
-      </td>
-    </tr>
-  </table>
+<img src="https://questorex.site/web/gif/frontend.gif" height="100" title="frontend"/>
+     
 </p>
 
 <div align="center"> 🏗 Backend Development</div>
