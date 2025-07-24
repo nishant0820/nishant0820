@@ -21,7 +21,6 @@
 <div align="center"> 🌈 Frontend Development</div>
 <p align="center">
 <img src="frontend.gif" height="100" title="frontend"/>
-     
 </p>
 
 <div align="center"> 🏗 Backend Development</div>
@@ -67,46 +66,8 @@
 
 <div align="center"> ⚙ Tools & Platforms</div>
 <p align="center">
-  <table align="center" style="border:none;border-collapse:collapse">
-    <tr style="border:none">
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/><br>
-        <sub><b>Git</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/><br>
-        <sub><b>VS Code</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/><br>
-        <sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" title="Supabase"/><br>
-        <sub><b>Supabase</b></sub>
-      </td>
-    </tr>
-    <tr style="border:none">
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" title="Vercel"/><br>
-        <sub><b>Vercel</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="50" title="Netlify"/><br>
-        <sub><b>Netlify</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/><br>
-        <sub><b>Postman</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.simpleicons.org/render/46e3b7" width="50" title="Render"/><br>
-        <sub><b>Render</b></sub>
-      </td>
-    </tr>
-  </table>
+<img src="platforms.gif" height="100" title="frontend"/>
 </p>
-
 ---
 
 ### 📈 GitHub Stats
