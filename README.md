@@ -50,18 +50,7 @@
 
 <div align="center">🗃 Databases</div>
 <p align="center">
-  <table align="center" style="border:none;border-collapse:collapse">
-    <tr style="border:none">
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/><br>
-        <sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/><br>
-        <sub><b>MySQL</b></sub>
-      </td>
-    </tr>
-  </table>
+<img src="databases.gif" height="100" title="frontend"/>
 </p>
 
 <div align="center"> ⚙ Tools & Platforms</div>
