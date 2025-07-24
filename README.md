@@ -25,27 +25,7 @@
 
 <div align="center"> 🏗 Backend Development</div>
 <p align="center">
-  <table align="center" style="border:none;border-collapse:collapse">
-    <tr style="border:none">
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/><br>
-        <sub><b>Node.js</b></sub>
-      </td>
-
-<td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/><br>
-        <sub><b>Python</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django"/><br>
-        <sub><b>Django</b></sub>
-      </td>
-      <td align="center" style="border:none;padding:8px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/><br>
-        <sub><b>Java</b></sub>
-      </td>
-    </tr>
-  </table>
+<img src="backend.gif" height="100" title="frontend"/>
 </p>
 
 <div align="center">🗃 Databases</div>
