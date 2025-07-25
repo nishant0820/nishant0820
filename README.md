@@ -37,6 +37,7 @@
 <p align="center">
 <img src="platforms.gif" height="100" title="frontend"/>
 </p>
+
 ---
 
 ### 📈 GitHub Stats
