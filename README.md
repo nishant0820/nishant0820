@@ -19,21 +19,25 @@
 ### 🛠 Tech Stack
 
 <div align="center"> 🌈 Frontend Development</div>
+
 <p align="center">
 <img src="frontend.gif" height="100" title="frontend"/>
 </p>
 
 <div align="center"> 🏗 Backend Development</div>
+
 <p align="center">
 <img src="backend.gif" height="100" title="frontend"/>
 </p>
 
 <div align="center">🗃 Databases</div>
+
 <p align="center">
 <img src="databases.gif" height="100" title="frontend"/>
 </p>
 
 <div align="center"> ⚙ Tools & Platforms</div>
+
 <p align="center">
 <img src="platforms.gif" height="100" title="frontend"/>
 </p>
