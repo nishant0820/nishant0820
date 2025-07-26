@@ -45,7 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishant0820&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0820&theme=radical&hide_border=true" width="48%" />
-  ![](https://komarev.com/ghpvc/?username=nishant0820&color=blue)
 </p>
 
 <p align="center">
@@ -57,6 +56,8 @@
 
 - 📧 Gmail: *gupta.nishant08042004@gmail.com*
 - 🌍 Portfolio: https://portfolio-two-amber-90.vercel.app/
+
+![](https://komarev.com/ghpvc/?username=nishant0820&color=blue)
 
 ---
 
