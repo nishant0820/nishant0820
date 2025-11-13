@@ -5,7 +5,7 @@
     <img src="https://imgur.com/79lMdWX.gif" width="28" alt="wave" style="vertical-align:middle;"/>
     Hey there, I'm <span style="color:#3b82f6;">Nishant Gupta</span>
   </h1>
-  <p style="margin-top:0.1rem; font-style:italic;">Code. Generate. Repeat.</p>
+  <p style="margin-top:0.1rem; font-style:italic;">✨ Code • Generate • Repeat ✨</p>
   <h3>🚀 Fullstack Web Developer • Database Engineer • B.Tech Student</h3>
 </div>
 
