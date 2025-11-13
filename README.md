@@ -64,12 +64,6 @@
 </p>
 
 <p align="center">
-  <!-- Contribution calendar style activity graph (calendar-like) -->
-  <!-- If the image doesn't render, visit https://activity-graph.herokuapp.com -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=nishant0820&theme=react-dark&area=true" width="100%" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0820&layout=compact&theme=radical&hide_border=true" width="60%" alt="Top Languages"/>
 </p>
