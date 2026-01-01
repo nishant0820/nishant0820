@@ -54,24 +54,8 @@
 
 ---
 
-<!-- ================== GITHUB STATS & ACTIVITY ================== -->
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <!-- GitHub language & commits / streaks -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant0820&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant0820&theme=radical&hide_border=true" width="48%" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant0820&layout=compact&theme=radical&hide_border=true" width="60%" alt="Top Languages"/>
-</p>
-
----
-
 ### 🔍 About my work
-I focus on building fullstack web apps and backend systems with clean APIs and efficient databases. Example priorities in my projects:
+I focus on building full-stack web apps and backend systems with clean APIs and efficient databases. Example priorities in my projects:
 - Scalable REST/GraphQL APIs, authentication, and role-based access.
 - Clean, responsive UIs with performance budgets in mind.
 - Database schema design and indexing for query speed.
