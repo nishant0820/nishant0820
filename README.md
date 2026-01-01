@@ -97,4 +97,4 @@ If you connect commits -> social posts, avoid posting tiny or every single commi
 ---
 
 <p align="center">✨ Code • Generate • Repeat ✨</p>
-<p align="center">© 2025 Nishant Gupta</p>
+<p align="center">© 2026 Nishant Gupta</p>
